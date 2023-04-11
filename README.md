@@ -1,23 +1,23 @@
-### Projeto LabeFood
+
 
 <h1 align="center" >
-<img src="https://user-images.githubusercontent.com/102265620/229245936-a2b18ed3-8d60-4674-95fd-5a32a1dac9e6.png" width="60" height="60"/>
-Projeto LabeX
-<img src="https://user-images.githubusercontent.com/102265620/229246611-12698b16-a35f-4b37-a132-ebe011163257.png" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/102265620/231275400-39ccdde9-e2c8-4288-987b-e6944c8a44ad.png" width="48" height="48"/>
+Projeto LabeFood
+<img src="https://user-images.githubusercontent.com/102265620/231275538-f8458013-c4f6-4920-8b4e-c60b83d2f7b8.png" width="48" height="48"/>
 </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/102265620/229250136-96834c98-428c-4c31-80ff-d72fe560de21.png" width="380" height="100" />
+<img src="https://user-images.githubusercontent.com/102265620/231278348-f5414eec-1d9f-4b11-a303-bcbdcef9f8f9.png" width="104" height="58" />
 </p>
 
-![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+![Badge Em Construção](http://img.shields.io/static/v1?label=STATUS&message=EM-CONSTRUÇÃO&color=yellow&style=for-the-badge)
 
 <hr>
 <h4>
- <img src="https://user-images.githubusercontent.com/102265620/231240933-08aab61f-6f83-47d5-a490-65ea085dccf6.png" width="25" height="25"/> O Projeto LabeX tem como função principal inserir a lógica de autenticação de token no React-js e reforçar que foi aprendido até o momento em consumo de APIs, componetização e na utilização de hooks.
+ <img src="https://user-images.githubusercontent.com/102265620/231278949-265c013c-dddf-4e7c-a7ea-f6c157e0cdc4.png" width="35" height="35"/> O Projeto LabeFood tem como objetivo a reprodução de uma página com foco em mobile, que simule um aplicativo de delivery de comidas.
  </h4>
   <h4>
- <img src="https://user-images.githubusercontent.com/102265620/231241109-a3f2e423-f419-4b44-9e31-aaee863db09b.png" width="25" height="25"/> Utilizando uma API fornecida pela Labenu, o projeto simula um site de viagens espaciais, onde um usuário padrão que não possui uma conta, tem acesso as viagens e pode se candidatar a uma vaga para a viagen, enquanto quem possui uma conta, tem acesso a funcionalidades de administrador, como criar viagens, e aprovar candidatos para elas.
+ <img src="https://user-images.githubusercontent.com/102265620/231281719-493245a7-79f7-4de3-bc7f-9bbd77e562ab.png" width="35" height="35"/> Utilizando uma API fornecida pela Labenu, juntamente com um um modelo de design e assets, devemos replicar esta página que possui as mesmas funcionalidades que um aplicativo de delivery de comida, como a criação de contas de usuários, podendo realizar a busca por restaurantes, escolher o que deseja pedir e por fim realizar os pedidos.
 </h4>
 <hr>
 <h3>
