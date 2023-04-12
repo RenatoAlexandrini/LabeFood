@@ -85,7 +85,7 @@ O que não funciona:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> Não é possível finalizar um pedido. 
 <br></br>
-<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> A quantidade do produtos no detalhes do restaurante não funciona corretamente.
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> A quantidade de produtos nos detalhes dos restaurantes não funciona corretamente.
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> O Cabeçalho não está aparecendo.
 <br></br>
