@@ -49,29 +49,20 @@ https://ugly-flag.surge.sh/
 <img src="https://user-images.githubusercontent.com/102265620/231312220-43bfc712-7d23-447f-9055-6b8413920327.png" width="35" height="35"/>
 Funcionalidades:
 <br></br>
-</h3>
-<h3>
 <img src="https://user-images.githubusercontent.com/102265620/231312744-044cbeac-1f8a-4cac-91c5-2f526e9af526.png" width="25" height="25"/> Login de usuários: cadastrados
 <br></br>
 <img src='https://user-images.githubusercontent.com/102265620/193486760-194f059a-9b3a-43db-9cd0-449d0687489e.png' width="320" height="480"/>
 <br></br>
-<br></br>
-
 <img src="https://user-images.githubusercontent.com/102265620/231314216-5145b9c5-ee26-4cad-85c0-ccd5a5c99995.png" width="25" height="25"/> Cadastro de novos usuários: <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/193486814-04c973c0-a818-47c3-b403-d0f257df38a5.png" width="320" height="480"/>
 <br></br>
-<br></br>
-
 <img src="https://user-images.githubusercontent.com/102265620/231315463-5378ac4b-488c-4d8b-8b59-36cddea86830.png" width="25" height="25"/> Página da home com os restaurantes disponíveis:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/193486836-f84cd1b7-ef2a-46b8-93f1-0e1c0e616d2e.png" width="320" height="480"/>
 <br></br>
-<br></br>
-
 <img src="https://user-images.githubusercontent.com/102265620/231316688-5ce8905f-0f9e-441e-bdeb-ae1431e8a3e1.png" width="25" height="25"/> Página com os detalhes de um restaurante:
 <br></br>
 <img src="https://user-images.githubusercontent.com/102265620/193486841-bdb838e6-75ae-4903-9bbc-616dbc1bf69e.png" width="320" height="480"/>
-<br></br>
 <br></br>
 <hr>
 <h3>
