@@ -14,81 +14,88 @@ Projeto LabeFood
 
 <hr>
 <h4>
- <img src="https://user-images.githubusercontent.com/102265620/231278949-265c013c-dddf-4e7c-a7ea-f6c157e0cdc4.png" width="35" height="35"/> O Projeto LabeFood tem como objetivo a reprodução de uma página com foco em mobile, que simule um aplicativo de delivery de comidas.
+ <img src="https://user-images.githubusercontent.com/102265620/231278949-265c013c-dddf-4e7c-a7ea-f6c157e0cdc4.png" width="25" height="25"/> O Projeto LabeFood tem como objetivo a reprodução de uma página com foco em mobile, que simule um aplicativo de delivery de comidas.
  </h4>
   <h4>
- <img src="https://user-images.githubusercontent.com/102265620/231281719-493245a7-79f7-4de3-bc7f-9bbd77e562ab.png" width="35" height="35"/> Utilizando uma API fornecida pela Labenu, juntamente com um um modelo de design e assets, devemos replicar esta página que possui as mesmas funcionalidades que um aplicativo de delivery de comida, como a criação de contas de usuários, podendo realizar a busca por restaurantes, escolher o que deseja pedir e por fim realizar os pedidos.
+ <img src="https://user-images.githubusercontent.com/102265620/231281719-493245a7-79f7-4de3-bc7f-9bbd77e562ab.png" width="25" height="25"/> Utilizando uma API fornecida pela Labenu, juntamente com um um modelo de design e assets, devemos replicar esta página que possui as mesmas funcionalidades que um aplicativo de delivery de comida, como a criação de contas de usuários, podendo realizar a busca por restaurantes, escolher o que deseja pedir e por fim realizar os pedidos.
 </h4>
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/229319779-62fac4c0-8813-492f-8dcd-e1a8d144eda5.png" width="30" height="30"/>
+
+<img src="https://user-images.githubusercontent.com/102265620/231307956-71c524d7-0183-4a85-9dc7-986f29324e31.gif" width="30" height="30"/>
 Como Testar
-<br></br>
-:link: Link do surge:
+</h3>
+<h4>
+<img src="https://user-images.githubusercontent.com/102265620/231313303-478301aa-5f89-44c5-878a-2164be4f6fca.gif" width="20" height="20"/>
+Projetado com visualização em iPhone 6/7/8
+</h4>
+<h3>
+<img src="https://user-images.githubusercontent.com/102265620/231310363-2653b9fa-bda8-47d6-8460-9cd7fbe02eb7.gif" width="20" height="20"/> Link do surge:
 
-https://divergent-attraction.surge.sh/ 
+https://ugly-flag.surge.sh/ 
 <br></br>
-	:pouting_man: Login:  re.alexandrini@gmail.com
+<img src="https://user-images.githubusercontent.com/102265620/231311463-4dbd2f95-fcaf-45b3-ad37-f784867a962b.png" width="25" height="25"/> Login:  astrodev@gmail.com.br
 
-:key: Senha: 123456
+<img src="https://user-images.githubusercontent.com/102265620/231311540-a144d625-fe36-424e-a612-1b394aec3440.png" width="25" height="25"/> Senha: 123456
 </h3>
 
 ```
-- git clone https://github.com/RenatoAlexandrini/ProjetoLabeX
+- git clone https://github.com/RenatoAlexandrini/LabeFood
 - npm install
 - npm start
 ```
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/229322799-e589f75f-4075-4fec-8e41-9da4c6215312.png" width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/102265620/231312220-43bfc712-7d23-447f-9055-6b8413920327.png" width="35" height="35"/>
 Funcionalidades:
 <br></br>
 </h3>
 <h3>
-:man_astronaut: Página da lista das viagens para usuários não autenticados:
+<img src="https://user-images.githubusercontent.com/102265620/231312744-044cbeac-1f8a-4cac-91c5-2f526e9af526.png" width="25" height="25"/> Login de usuários: cadastrados
 <br></br>
-<img src="https://user-images.githubusercontent.com/102265620/229322998-8fb5590f-776c-409a-82e7-12141040f3bc.jpg" width="640" height="360"/>
+<img src='https://user-images.githubusercontent.com/102265620/193486760-194f059a-9b3a-43db-9cd0-449d0687489e.png' width="320" height="480"/>
 <br></br>
 <br></br>
 
-Integrantes do Grupo:
+<img src="https://user-images.githubusercontent.com/102265620/231314216-5145b9c5-ee26-4cad-85c0-ccd5a5c99995.png" width="25" height="25"/> Cadastro de novos usuários: <br></br>
+<img src="https://user-images.githubusercontent.com/102265620/193486814-04c973c0-a818-47c3-b403-d0f257df38a5.png" width="320" height="480"/>
+<br></br>
+<br></br>
 
-- Alessandro Silvino
-- Alex Silva
-- Allef Souza
-- Leonardo Mizuki Koga
-- Renato Alexandrini
+<img src="https://user-images.githubusercontent.com/102265620/231315463-5378ac4b-488c-4d8b-8b59-36cddea86830.png" width="25" height="25"/> Página da home com os restaurantes disponíveis:
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/193486836-f84cd1b7-ef2a-46b8-93f1-0e1c0e616d2e.png" width="320" height="480"/>
+<br></br>
+<br></br>
 
-Projetado com visualização em iPhone 6/7/8
-
-Link do Surge:
-
-ugly-flag.surge.sh
-<br/>
-Login: astrodev@gmail.com.br<br/>
-Senha: 123456
-
-O que Funciona:
-- Login de usuárrios cadastrados
-- Cadastro de novos usuários 
-- Página dos restaurantes
-- Detalhe das Páginas dos Restaurantes
-
-
+<img src="https://user-images.githubusercontent.com/102265620/231316688-5ce8905f-0f9e-441e-bdeb-ae1431e8a3e1.png" width="25" height="25"/> Página com os detalhes de um restaurante:
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/193486841-bdb838e6-75ae-4903-9bbc-616dbc1bf69e.png" width="320" height="480"/>
+<br></br>
+<br></br>
+<hr>
+<h5>
 O que não funciona:
-- A página dos restaurantes não possui filtro de busca
+<img src="https://user-images.githubusercontent.com/102265620/231324894-8dd5eadd-eb39-419c-a327-3d7f71260a97.png" width="25" height="25"/> A página dos restaurantes não possui filtro de busca
 - O carrinho de copras é inexistente
 - Não é possível finalizar um pedido
 - Os detalhes dos restaurantes não separa os produtos por categoria 
 - A quantidade do produtos no detalhes do restaurante não funciona corretamente
 - O Cabeçalho não está aparecendo
 - Não foram adicionadas as telas de carregamento e erro
+</h5>
+<hr>
+<h4>
+<img src="https://user-images.githubusercontent.com/102265620/231319778-515ae917-afe7-4bbb-8648-6ee891ebce3a.gif" width="20" height="20"/> Técnicas e tecnologias utilizadas
 
-<div align="center">
-<img src='https://user-images.githubusercontent.com/102265620/193486760-194f059a-9b3a-43db-9cd0-449d0687489e.png'>
-<img src='https://user-images.githubusercontent.com/102265620/193486814-04c973c0-a818-47c3-b403-d0f257df38a5.png'>
-<img src='https://user-images.githubusercontent.com/102265620/193486836-f84cd1b7-ef2a-46b8-93f1-0e1c0e616d2e.png'>
-<img src='https://user-images.githubusercontent.com/102265620/193486841-bdb838e6-75ae-4903-9bbc-616dbc1bf69e.png'>
-</div>
+- ``React-js``
+- ``CSS - Styled Componnets``
+- ``Javascript``
+</h4>
+<hr>
+<h3>
+<img src="https://user-images.githubusercontent.com/102265620/231319917-dbd6cce3-ec55-43ce-a2fc-da76aa0769df.gif" width="25" height="25"/> Autores
+</h3>
 
-
+| [<img src="https://avatars.githubusercontent.com/u/102526803?v=4" width=115><br><sub>Alessandro Silvino</sub>](https://github.com/AlessandroSilvino) |  [<img src="https://avatars.githubusercontent.com/u/91907962?v=4" width=115><br><sub>Alex Silva</sub>](https://github.com/mrrocha92) |  [<img src="https://avatars.githubusercontent.com/u/102393754?v=4" width=115><br><sub>Allef Souza</sub>](https://github.com/allefsouza) |  [<img src="https://avatars.githubusercontent.com/u/99742656?v=4" width=115><br><sub>Leonardo Mizuki Koga</sub>](https://github.com/leokoga) | [<img src="https://avatars.githubusercontent.com/u/102265620?v=4" width=115><br><sub>Renato Alexandrini</sub>](https://github.com/RenatoAlexandrini) |
+| :---: | :---: | :---: |:---: |:---: |
