@@ -74,20 +74,29 @@ Funcionalidades:
 <br></br>
 <br></br>
 <hr>
-<h5>
+<h3>
+ <img src="https://user-images.githubusercontent.com/102265620/231327084-329f32e6-5976-499d-9d5e-d33e5c2ecabd.png" width="48" height="48"/>
 O que não funciona:
-<img src="https://user-images.githubusercontent.com/102265620/231324894-8dd5eadd-eb39-419c-a327-3d7f71260a97.png" width="25" height="25"/> A página dos restaurantes não possui filtro de busca
-- O carrinho de copras é inexistente
-- Não é possível finalizar um pedido
-- Os detalhes dos restaurantes não separa os produtos por categoria 
-- A quantidade do produtos no detalhes do restaurante não funciona corretamente
-- O Cabeçalho não está aparecendo
-- Não foram adicionadas as telas de carregamento e erro
+</h3>
+<h5>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> A página dos restaurantes não possui filtro de busca.
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> O carrinho de compras é inexistente.
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> Não é possível finalizar um pedido. 
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> A quantidade do produtos no detalhes do restaurante não funciona corretamente.
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> O Cabeçalho não está aparecendo.
+<br></br>
+<img src="https://user-images.githubusercontent.com/102265620/231326087-1724c971-3ece-48dd-a2cf-ac6b32090f98.png" width="20" height="20"/> Não foram adicionadas as telas de carregamento e erro.
 </h5>
 <hr>
-<h4>
+<h3>
 <img src="https://user-images.githubusercontent.com/102265620/231319778-515ae917-afe7-4bbb-8648-6ee891ebce3a.gif" width="20" height="20"/> Técnicas e tecnologias utilizadas
-
+ </h3>
+ <h4>
+  
 - ``React-js``
 - ``CSS - Styled Componnets``
 - ``Javascript``
