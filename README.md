@@ -33,18 +33,26 @@ Projetado com visualização em iPhone 6/7/8
 <img src="https://user-images.githubusercontent.com/102265620/231310363-2653b9fa-bda8-47d6-8460-9cd7fbe02eb7.gif" width="20" height="20"/> Link do surge:
 
 https://ugly-flag.surge.sh/ 
-<br></br>
-<img src="https://user-images.githubusercontent.com/102265620/231311463-4dbd2f95-fcaf-45b3-ad37-f784867a962b.png" width="25" height="25"/> Login:  astrodev@gmail.com.br
-
-<img src="https://user-images.githubusercontent.com/102265620/231311540-a144d625-fe36-424e-a612-1b394aec3440.png" width="25" height="25"/> Senha: 123456
+<h4>
+<img src="https://user-images.githubusercontent.com/102265620/231311463-4dbd2f95-fcaf-45b3-ad37-f784867a962b.png" width="25" height="25" align="center" /> Login:  astrodev@gmail.com.br
+ 
+<img src="https://user-images.githubusercontent.com/102265620/231311540-a144d625-fe36-424e-a612-1b394aec3440.png" width="25" height="25" align="center" /> Senha: 123456
+ </h4>
 </h3>
+<br></br>
 
+<h3>
+<img src="https://user-images.githubusercontent.com/102265620/236321861-e3e1f25a-309d-439a-89b4-8a0827885e02.png" width="30" height="30"/> Ou teste localmente
+</h3>
+    
 ```
+- abra o Git Bash em uma pasta e siga os seguintes comandos:
 - git clone https://github.com/RenatoAlexandrini/LabeFood
 - npm install
 - npm start
 ```
 <hr>
+
 <h3>
 <img src="https://user-images.githubusercontent.com/102265620/231312220-43bfc712-7d23-447f-9055-6b8413920327.png" width="35" height="35"/>
 Funcionalidades:
